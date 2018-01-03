@@ -2,9 +2,7 @@
 [![](https://images.microbadger.com/badges/image/tunip/picons.svg)](https://microbadger.com/images/tunip/picons "Get your own image badge on microbadger.com")
 
 # About
-Picons based on Alpine Linux.
-
-Create Picons for Tvheadend, VDR or Enigma2.
+Create picons (https://github.com/picons/picons-source) based on Alpine Linux.
 
 # Voluems
 |Local|Container|Description|
