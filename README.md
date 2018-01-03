@@ -28,9 +28,3 @@ TVH_PASS="password"
 ```
 docker run --rm --name="picons" -v /your path/picons:/data tunip/picons bash build-picons.sh
 ```
-
-Output directory
-```
-/data/picons
-```
-
