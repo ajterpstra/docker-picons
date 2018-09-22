@@ -1,7 +1,7 @@
 #!/bin/bash
 
 GIT_DIR=/data/picons-source
-GIT_REMOTE=https://github.com/picons/picons-source.git
+GIT_REMOTE=https://gitlab.com/picons/picons.git
 
 if [ ! -d ${GIT_DIR} ]; then
     git clone ${GIT_REMOTE} ${GIT_DIR}
