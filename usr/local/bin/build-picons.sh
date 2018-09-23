@@ -31,4 +31,4 @@ ${GIT_DIR}/2-build-picons.sh srp
 #    mv /tmp/srp.*/logos/*.png /data/picons/logos
 #    rm -r /tmp/srp.*
 #    rm /tmp/picons.tar.xz
-fi
+#fi
