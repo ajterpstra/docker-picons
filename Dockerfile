@@ -26,3 +26,4 @@ RUN apk add --no-cache \
     rm -rf /var/cache/apk/* /tmp/* && \
     chmod +x /usr/local/bin/build-picons.sh
     
+CMD ["bash build-picons.sh"]
