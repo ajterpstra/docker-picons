@@ -11,8 +11,8 @@ else
     git pull
 fi
 
-${GIT_DIR}/1-build-servicelist.sh srp
-${GIT_DIR}/2-build-picons.sh srp
+${GIT_DIR}/1-build-servicelist.sh srp-full
+${GIT_DIR}/2-build-picons.sh srp-full
 
 #if ls ${GIT_DIR}/build-output/binaries-srp/srp.*.symlink.tar.xz 1> /dev/null 2>&1; then
 #    mv ${GIT_DIR}/build-output/binaries-srp/srp.*.symlink.tar.xz /tmp/picons.tar.xz
